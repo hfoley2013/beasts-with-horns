@@ -16,10 +16,10 @@ A React application that displays images and associated information of horned an
   * The `Main` component should pass props for the title, image and description to each `HornedBeast` component. You will find this information in the provided JSON file.
 * **Time Estimates**
   * **Number and name of feature:** #1: Display Images
-  * **Estimate of time needed to complete:**
-  * **Start time:**
-  * **Finish time:**
-  * **Actual time needed to complete:**
+  * **Estimate of time needed to complete:** 1 hour
+  * **Start time:** 11/7/2022, 2:06pm PDT
+  * **Finish time:** 11/7/2022, 3:30pm PDT
+  * **Actual time needed to complete:** 1:24
 
 ### Feature #2: Allow users to vote for their favorite beast
 
@@ -34,10 +34,10 @@ A React application that displays images and associated information of horned an
   * Put a heart in each horned beast with the number of times it was “favorited” next to it.
 * **Time Estimates**
   * **Number and name of feature:** #2: Allow users to vote for their favorite beast
-  * **Estimate of time needed to complete:**
-  * **Start time:**
-  * **Finish time:**
-  * **Actual time needed to complete:**
+  * **Estimate of time needed to complete:** 30 minutes
+  * **Start time:** 11/8/2022, 12:30pm PDT
+  * **Finish time:** 11/8/2022, 12:50pm PDT
+  * **Actual time needed to complete:** :20
 
 ### Feature 3: Bootstrap
 
@@ -51,8 +51,8 @@ A React application that displays images and associated information of horned an
   * Bring in the `react-bootstrap` library and use it to style your application making sure that it is responsive.
 * **Time Estimates**
   * **Number and name of feature:** #3: Bootstrap
-  * **Estimate of time needed to complete:**
-  * **Start time:**
+  * **Estimate of time needed to complete:** 2 hours
+  * **Start time:** 11/8/2022, 1:22pm PDT
   * **Finish time:**
   * **Actual time needed to complete:**
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
+import Stack from 'react-bootstrap/Stack';
 import './HornedBeast.css';
 
 class HornedBeast extends React.Component{
@@ -27,6 +28,7 @@ class HornedBeast extends React.Component{
   render() {
     return (
       <>
+        <Stack gap={5}>
         <article>
             <h2
               id={this.props._id} 
@@ -53,6 +55,7 @@ class HornedBeast extends React.Component{
             </div>
           </div>
         </article>
+        </Stack>
       </>
     );
   }

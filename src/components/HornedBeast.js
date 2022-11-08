@@ -6,13 +6,13 @@ class HornedBeast extends React.Component{
     return (
       <>
         <article>
-          <div class="hornedBeastWrapper">
             <h2
-              key={this.props.id} 
+              id={this.props._id} 
               keyword={this.props.keyword}
             >
               {this.props.title}
             </h2>
+          <div class="hornedBeastWrapper">
             <img 
               src={this.props.image_url} 
               title={this.props.title} 

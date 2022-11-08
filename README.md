@@ -53,8 +53,8 @@ A React application that displays images and associated information of horned an
   * **Number and name of feature:** #3: Bootstrap
   * **Estimate of time needed to complete:** 2 hours
   * **Start time:** 11/8/2022, 1:22pm PDT
-  * **Finish time:**
-  * **Actual time needed to complete:**
+  * **Finish time:** 11/8/2022, 3:11pm PDT
+  * **Actual time needed to complete:** 1:49
 
 ### Stretch Goal: Add Interaction
 

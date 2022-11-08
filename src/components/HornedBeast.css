@@ -1,0 +1,29 @@
+.animalMainImg {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  overflow: hidden;
+}
+
+.imgCardText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.likesWrapper {
+  display: flex;
+}
+
+#likesCount {
+  margin: auto 1rem;
+  font-weight: bold ;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

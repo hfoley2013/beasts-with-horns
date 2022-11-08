@@ -8,7 +8,7 @@ class Main extends React.Component{
     data.forEach((beast) => {
       beastArr.push(
         <HornedBeast 
-        _id={beast._id}
+        key={beast._id}
         title={beast.title}
         image_url={beast.image_url}
         description={beast.description}

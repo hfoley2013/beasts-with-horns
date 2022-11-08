@@ -8,7 +8,7 @@ class HornedBeast extends React.Component{
         <article>
           <div class="hornedBeastWrapper">
             <h2
-              id={this.props.id} 
+              key={this.props.id} 
               keyword={this.props.keyword}
             >
               {this.props.title}

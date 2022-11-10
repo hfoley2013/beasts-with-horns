@@ -74,8 +74,8 @@ A React application that displays images and associated information of horned an
   * **Number and name of feature:** #4: Display a Modal
   * **Estimate of time needed to complete:** 4 hours
   * **Start time:** 11/9/2022, 1:46pm PDT
-  * **Finish time:**
-  * **Actual time needed to complete:**
+  * **Finish time:** 11/9/2022, 5:00pm PDT
+  * **Actual time needed to complete:** 4:14
 
 
 

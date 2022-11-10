@@ -1,0 +1,15 @@
+.modal-content {
+  border: 5px solid green;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-content img {
+  border: 2px solid black;
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  overflow: hidden;
+}

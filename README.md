@@ -77,6 +77,23 @@ A React application that displays images and associated information of horned an
   * **Finish time:** 11/9/2022, 5:00pm PDT
   * **Actual time needed to complete:** 4:14
 
+### Feature 5: Forms and Filter
+
+* **Why are we implementing this feature?**
+  * As a user, I want to be able to view the beasts by the number of horns
+* **What are we going to implement?**
+  * Given that a user is presented with filtering options
+  * When the user clicks on one option
+  * Then the images should be filtered accordingly
+* **How are we implementing it?**
+  * Using the `Form` component of `react-bootstrap`, build a drop down menu so that the user can choose to filter by number of horns.
+  * When the user chooses one of the options, the correct images should be displayed.
+* **Time Estimates**
+  * **Number and name of feature:** #4: Forms and Filter
+  * **Estimate of time needed to complete:** 4 hours
+  * **Start time:** 11/9/2022, 1:30pm PDT
+  * **Finish time:** 11/9/2022, 4:15m PDT
+  * **Actual time needed to complete:** 2:45
 
 
 ### Stretch Goal: Add Interaction
